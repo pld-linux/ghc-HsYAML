@@ -6,7 +6,7 @@
 Summary:	Pure Haskell YAML 1.2 processor
 Name:		ghc-%{pkgname}
 Version:	0.2.1.0
-Release:	1
+Release:	2
 License:	GPL v2
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/HsYAML
