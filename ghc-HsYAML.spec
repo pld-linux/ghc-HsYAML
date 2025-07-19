@@ -61,6 +61,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 HsYAML is a YAML 1.2 processor, i.e. a library for parsing and
 serializing YAML documents.
 
+%description -l pl.UTF-8
+HsYAML to procesora YAML 1.2, czyli biblioteka do analizy i
+serializacji dokumentów YAML.
+
 %package prof
 Summary:	Profiling %{pkgname} library for GHC
 Summary(pl.UTF-8):	Biblioteka profilująca %{pkgname} dla GHC
